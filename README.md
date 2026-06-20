@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-perfume-sensual/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tu perfume sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-sensual/) |
+| **Get License** | [License this song: Tu perfume sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-sensual/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu perfume sensual, me tiene en el aire
+> Esa noche de club, no puedo olvidarte
+> Con un movimiento, me vienes a buscar
+> Tu perfume sensual, me hace vibrar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
