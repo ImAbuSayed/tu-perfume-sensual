@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-perfume-sensual/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu perfume sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-sensual/) |
+| **Get License** | [Secure Licensing Rights for Tu perfume sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-sensual/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d2eb8a434a6239f4c9a57fde1b23f03bfd50e61509ff3390f1b9b6de7ff4fdfd` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

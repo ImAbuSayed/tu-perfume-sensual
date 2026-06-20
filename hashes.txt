@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu perfume sensual
+
+This log tracks the cryptographic history and versioning for the song **Tu perfume sensual** (tu-perfume-sensual).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T05:03:13.496836 | `v1` | `d2eb8a434a6239f4c9a57fde1b23f03bfd50e61509ff3390f1b9b6de7ff4fdfd` | `441c07130ccf7bb42d969adb9d11e1b85fb982ff4635da9dd6cda3c895bac1de` | `2026-06-21_tu-perfume-sensual-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
